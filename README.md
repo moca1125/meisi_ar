@@ -8,7 +8,7 @@
 ※ Andoroid では出来ない場合があります．
 
 ### <デモ動画>
-<video src="demo.mov" controls="true"></video>
+![demo](demo.gif)
 
 使用したモデル
 [dog](dog.blend)
